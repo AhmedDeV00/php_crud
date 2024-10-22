@@ -2,7 +2,7 @@ PHP MySQL CRUD Application
 
 This project is a simple CRUD (Create, Read, Update, Delete) application built using PHP and MySQL. It demonstrates basic database operations and is ideal for learning how to interact with a MySQL database using PHP.
 
-Link :
+Link :  tutorialphpcrud.infinityfreeapp.com
 
 Features:
 
